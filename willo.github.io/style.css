@@ -1,0 +1,16 @@
+.div1 {
+    width: 300px;
+    height: 278px;
+    border: 1px solid blue;
+    border-radius: 45%;
+    box-sizing: border-box;
+  }
+  
+  .div2 {
+    width: 300px;
+    height: 100px;
+    padding: 50px;
+    border: 1px solid red;
+    border-radius: 45%;
+    box-sizing: border-box;
+  }
